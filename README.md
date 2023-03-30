@@ -1,6 +1,6 @@
 <h1 align='center'> Hello 👋! I'm Josephine Hemingway </h1>
 
-[![Instagram](https://img.shields.io/badge/Follow-me-blue?style=for-the-badge&logo=instagram)](https://instagr.am/xsparklinex) [![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josephineagathahemingway/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagr.am/xsparklinex) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephineagathahemingway/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@josephineagathahemingway6292)
 
 ## I'm a Student, Developer and Entrepreneur!
 I love all things creative - drawing, painting, photography, and I run a small business while studying tech in university! I’m currently working on a website for my business and my own web portfolio. 🔭 Feel free to reach out to me!
